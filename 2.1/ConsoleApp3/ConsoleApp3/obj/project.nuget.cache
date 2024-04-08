@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ySEhUoU4yQbUlsH7hvKU9qYnZHoBVw+VOWuV0M6YoI4qc8qzD6597QDenVEU0cVJylCWd/1S7MZjkWzLOCouWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\public.COPP\\Downloads\\Практика C#\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\public.COPP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
