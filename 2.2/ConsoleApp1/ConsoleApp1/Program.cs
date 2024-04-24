@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Formats.Asn1;
-using System.Xml.Serialization;
 
 class Student
 {
